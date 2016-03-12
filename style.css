@@ -1,0 +1,10 @@
+h1{
+	text-align: center;
+	color: aqua;
+}
+p{
+	background-color: #FF2652;
+	margin: auto;
+	width: 70%;
+	border: 2px solid black;
+}
